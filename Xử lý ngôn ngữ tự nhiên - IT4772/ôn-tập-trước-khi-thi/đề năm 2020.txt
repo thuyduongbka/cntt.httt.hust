@@ -1,0 +1,3 @@
+câu 1: tính cyk và vẽ cây cú pháp
+câu 2: so sánh word2vect và bert
+câu 3: hỏi về btl

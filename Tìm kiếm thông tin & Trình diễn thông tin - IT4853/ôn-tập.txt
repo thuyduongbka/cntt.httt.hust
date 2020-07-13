@@ -1,0 +1,10 @@
+đề 20192
+1. nén chỉ mục ngược
+-biểu diễn các từ 2020 2015 2030 2075 mã hóa theo khoảng cách mã VB
+-so sánh khi đã nén và chưa nén
+2. Loại bỏ stop word
+- biểu diễn từ bằng vector
+- tính cosin cho văn bản với câu query
+3. một bài nào đó ko làm đc
+4. phân cụm văn bản - tính RSS
+5. hỏi độ tương đồng cosin có ảnh hưởng tới độ tương đồng jacad

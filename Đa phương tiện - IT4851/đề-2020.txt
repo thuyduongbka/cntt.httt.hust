@@ -1,0 +1,6 @@
+1. xóa stop word, biểu diễn câu dưới dạng vector
+2. ma trận đồng xuất hiện
+3. Viết câu lệnh sql mở rộng
+4. vẽ đường cong P/R
+5. hỏi Đ/S về Raid0, Raid1, Raid5
+6. nêu bài tập lớn 

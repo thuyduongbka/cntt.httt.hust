@@ -1,0 +1,23 @@
+đề thi 20192
+câu 1:
+tính số lần hiển thị printf trong đoạn:
+printf(1)
+#pragma omp parallel
+{
+	printf(2)
+	#pragma omp for
+	for (i:0 to 40){
+		printf(3)
+	}
+	printf(4)
+}
+câu 2: tìm lỗi sai trong đoạn code:
+np = omp_get_num_threads
+#pragma omp parallel for schedule(static)
+for (i=0; i<np; i++){
+	word(i)
+	...
+}
+câu 3: sử dụng openmp viết giao tiếp đơn hướng
+câu 4: cho đoạn code tìm lỗi deadlock
+câu 5: so sánh ưu nhược điểm của map-reduce và spark
