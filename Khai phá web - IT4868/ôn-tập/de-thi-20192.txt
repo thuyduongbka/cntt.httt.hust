@@ -1,0 +1,6 @@
+1a. vẽ ma trận kề
+1b. tính pagerank 
+2. tính naive-bayes
+3. quảng cáo? nêu định nghĩa, vẽ sơ đồ, giải thích
+4. SVM
+5. Hệ trợ giúp item-item
